@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MA02_20181020</string>
+    <string name="google_api_key">AIzaSyBoc9E4ypxiNtfWV9Gn3Q9je82o8wDKRZU</string>
+    <string name="food_api_url">http://api.visitkorea.or.kr/openapi/service/rest/KorService/areaBasedList?serviceKey=ZKV%2FlUHHpwfr6xQVj3N33Lk9idUReDw9JFVqqYeWov3F5oS1kSE9XOF05tmbq8g%2BLfPgzPfvgSzSG573wUncEw%3D%3D&amp;pageNo=1&amp;numOfRows=30&amp;MobileApp=Final_20181020&amp;MobileOS=AND&amp;arrange=O&amp;contentTypeId=39&amp;listYN=Y&amp;areaCode=</string>
+    <string name="food_api_key">ZKV%2FlUHHpwfr6xQVj3N33Lk9idUReDw9JFVqqYeWov3F5oS1kSE9XOF05tmbq8g%2BLfPgzPfvgSzSG573wUncEw%3D%3D</string>
+</resources>
